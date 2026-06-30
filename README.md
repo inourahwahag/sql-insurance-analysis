@@ -5,7 +5,6 @@ Exploratory data analysis (EDA) project using an insurance customer dataset. The
 SQL Concepts
 
 * SELECT
-* WHERE
 * GROUP BY
 * ORDER BY
 * HAVING
